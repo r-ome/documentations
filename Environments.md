@@ -10,6 +10,6 @@
 - This is where possibly QA and Business people will test
 - This is where git tagging applies
 - This is where Smoke, UAT, load, performance and regression test is done
-- 
+  
 
 ## Production
